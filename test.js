@@ -1,1 +1,1 @@
-const name = "hello! feature1!"
+const name = "hello! feature2"
